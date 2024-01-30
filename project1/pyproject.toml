@@ -6,6 +6,7 @@ authors = ["Wiktor Szwajka"]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+pytest = "^8.0.0"
 
 
 [build-system]
